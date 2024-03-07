@@ -1,0 +1,31 @@
+{
+  "formContact": [
+    {
+      "heading":"GET IN TOUCH",
+      "description":"Send us a message, we will call back later"
+  }
+  ],
+  "contactInfo": [
+    {
+      "title": "Address",
+      "details": [
+        "Islampet",
+        "Srisailam Road",
+        "Atmakur - 518422, District - Nandyal, Andhra Pradesh (India)"
+      ]
+    },
+    {
+      "title": "Phone",
+      "details": ["+91-7702120557", "+91-6305591757 (Kalimulla Shaik)"]
+    },
+    {
+      "title": "Email",
+      "details": ["kalimulla400624@gmail.com"]
+    },
+    {
+      "title": "Open hours",
+      "details": ["Mon - Sun: 10 AM to 6 PM"]
+    }
+  ]
+
+}

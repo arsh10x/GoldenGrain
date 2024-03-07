@@ -1,0 +1,145 @@
+{
+    "productItems" : [
+        {
+          "id": 1,
+          "category": "Raw",
+          "image": "img/products/classic1.jpg",
+          "description": "Rice Classic Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 2,
+          "category": "Raw",
+          "image": "img/products/classic2.jpg",
+          "description": "Rice Classic Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 3,
+          "category": "Raw",
+          "image": "img/products/khusboo-25.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 4,
+          "category": "Raw",
+          "image": "img/products/khusboo-1.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 5,
+          "category": "Raw",
+          "image": "img/products/khusboo-2.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 6,
+          "category": "Raw",
+          "image": "img/products/kissan-25-2.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 7,
+          "category": "Raw",
+          "image": "img/products/kissan-25.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 8,
+          "category": "Raw",
+          "image": "img/products/taj-25.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 9,
+          "category": "Raw",
+          "image": "img/products/taj.jpg",
+          "description": "Rice Khusboo Brand Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 10,
+          "category": "Steam [20kg]",
+          "image": "img/steam20/1.jpg",
+          "description": "COOK EASY RICE 20 KG (Steam IR 64)",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 11,
+          "category": "Steam [20kg]",
+          "image": "img/steam20/2.jpg",
+          "description": "COOK EASY RICE 20 KG (Steam Sonam)",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 12,
+          "category": "Steam [20kg]",
+          "image": "img/steam20/3.jpg",
+          "description": "COOK EASY RICE 20 KG (Steam Swarna)",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 13,
+          "category": "Steam [25kg]",
+          "image": "img/steam25/1.jpg",
+          "description": "Steam 25kg Rice",
+          "title": "Best Quality Premium Rice"
+        },
+      
+        {
+          "id": 14,
+          "category": "Steam [25kg]",
+          "image": "img/steam25/2.jpg",
+          "description": "Steam 25kg Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 15,
+          "category": "Steam [25kg]",
+          "image": "img/steam25/3.jpg",
+          "description": "Steam 25kg Rice",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 16,
+          "category": "Sella/Boiled [20kg]",
+          "image": "img/sella20/1.jpg",
+          "description": "Best Quality Premium Rice",
+          "title":"Rice COOK EASY RICE 20 KG (Sella IR 64)(1)"
+        },
+        {
+          "id": 17,
+          "category": "Sella/Boiled [20kg]",
+          "image": "img/sella20/2.jpg",
+          "description": "Best Quality Premium Rice",
+          "title":"COOK EASY RICE 20 KG (Sella Sonam)"
+        },
+        {
+          "id": 18,
+          "category": "Sella/Boiled [20kg]",
+          "image": "img/sella20/3.jpg",
+          "description": "Best Quality Premium Rice",
+          "title": "COOK EASY RICE 20 KG (Sella Swarna)"
+        },
+        {
+          "id": 19,
+          "category": "Sella/Boiled [25kg]",
+          "image": "img/sella25/1.jpg",
+          "description": "COOK EASY RICE 25 Kg (Sella Katarni)",
+          "title": "Best Quality Premium Rice"
+        },
+        {
+          "id": 20,
+          "category": "Sella/Boiled [25kg]",
+          "image": "img/sella25/2.jpg",
+          "description": "COOK EASY RICE 25 Kg (Sella Sonam)",
+          "title": "Best Quality Premium Rice"
+        }
+      ]
+}

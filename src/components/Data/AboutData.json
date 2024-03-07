@@ -1,0 +1,42 @@
+{
+  "aboutHeading": [
+    {
+      "heading": "ABOUT US",
+      "description": "We are leading in the rice export field."
+    }
+  ],
+  "productData": [
+    {
+        "imageSrc": "img/core-img/b1.png",
+        "title": "Quality Products",
+        "description":
+          "Get only high quality and standard products from KGN Agro Enterprises. Our all products are well tested and examine before delivering to our customers."
+      },
+      {
+        "imageSrc": "img/core-img/b2.png",
+        "title": "Perfect Service",
+        "description":
+          "We believe in providing perfect service to our customers. We follow the approach of one time promise and long time service from our end."
+      },
+      {
+        "imageSrc": "img/core-img/b3.png",
+        "title": "100% Natural",
+        "description":
+          "All of our rice is processed with natural process only. We don't use chemicals and any other artificial products to process our rice."
+      },
+      {
+        "imageSrc": "img/core-img/b4.png",
+        "title": "Environmentally friendly",
+        "description":
+          "All of our products and rice processing are 100% natural and environmentally friendly. We make an effort to deliver you high quality rice."
+      }
+  ],
+  
+    "aboutUsContent": [
+      "We welcome you to KGN Agro Enterprises, best wholesale& retail rice traders and exporter.",
+      "KGN Agro Enterprises commenced its operation in India in 20. We are dedicated to the best dealers and the best customer service for non basmati rice, and we hope you will help us to colour people happy.",
+      "We are passionate about delivering the highest quality ingredients. Our Rice has been patiently matured to preserve its delicate aromas. The company's vision is to focus on long-term business growth, and our drive to innovate has set a steep bar for the food industry to follow. We value every single person with a unique idea or a new vision that could contribute to the next chapter of our story"
+    ]
+  
+  
+}

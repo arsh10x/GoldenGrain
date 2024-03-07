@@ -1,0 +1,76 @@
+{
+  "carouselItems": [
+    {
+      "title": "KGN Agro Enterprises",
+      "description": "Best Rice Processor, Exporter, Dealer & Supplier over Andhra Pradesh & Telangana.",
+      "image": "url(img/bg-img/1.jpg)",
+      "link1": "/product",
+      "link2": "/contact"
+    },
+    {
+      "title": "Taste the best texture of fine rice",
+      "description": "You will experience the taste and texture of fine rice with each order from Rice distribute, where you can taste the difference.",
+      "image": "url(img/bg-img/3.jpg)",
+      "link1": "../Product/Product.jsx",
+      "link2": "../Contact/Contact.jsx"
+    },
+    {
+      "title": "Major exporter of Non Basmati in A.P & Telangana",
+      "description": "KGN Agro Enterprises is a Major Producer and Supplier of Non Basmati rice. Supply Paddy, Brown and Milled rice.",
+      "image": "url(img/bg-img/2.jpg)",
+      "link1": "../Product/Product.jsx",
+      "link2": "../Contact/Contact.jsx"
+    }
+  ],
+  "homeSection": [
+    {
+      "title": "BEST QUALITY RICE",
+      "description": "We provide the perfect and fine textured rice for you."
+    }
+  ],
+  "serviceContent": [
+    {
+      "image":"img/core-img/s1.png",
+      "title": "Rice Organic Rice",
+      "description": "Organic Rice is rich in fiber and good for your digestion. It can help reduce the risk of heart disease and certain cancers. Rice Industries work hard to deliver high-quality rice."
+    },
+    {
+      "image":"img/core-img/s2.png",
+      "title": "Rice Parboiled Rice",
+      "description": "Parboiled rice has a low glycemic score and double fiber than cooked white rice. A low glycemic score will prevent you from blood sugar. Make an enquiry right now get parboiled rice at wholesale rates from us."
+    },
+    {
+      "image":"img/core-img/s3.png",
+      "title": "Rice Silky Sortex Non Basmati Rice",
+      "description": " Rice Silky Sortex Non Basmati Rice is having high levels of proteins and unique nutritional profits. It contains vitamins, zinc magnesium, also there is no fat or cholesterol found in Rice Silky Sortex Non Basmati Rice."
+    }
+  ],
+  "portfolioItems": [
+    { "id": 1, "imageUrl": "img/bg-img/r1-25.jpg" },
+    { "id": 2, "imageUrl": "img/bg-img/r2-25.jpg" },
+    { "id": 3, "imageUrl": "img/bg-img/r3-25.jpg" },
+    { "id": 4, "imageUrl": "img/bg-img/r4-25.jpg" },
+    { "id": 7, "imageUrl": "img/bg-img/r1.jpg" },
+    { "id": 5, "imageUrl": "img/bg-img/r2.jpg" },
+    { "id": 6, "imageUrl": "img/bg-img/r3.jpg" },
+    { "id": 8, "imageUrl": "img/bg-img/r4.jpg" }
+  ],
+  "productHover": [
+    {
+      "title1": "Best Quality Premium Rice",
+      "title2": "Extra Fine Rice"
+    }
+  ],
+  "contentData": [
+    {
+      "heading": "TASTE THE BEST WITH KGN AGRO ENTERPRISES",
+      "description": "Our products are being exported to the many places in India either directly or through associates. The result is guaranteed consistency at the consumer table every time. Our mission to ensure consistently longer aged rice to deliver better value to the customers."
+    }
+  ],
+  "productTitle":[
+   {
+    "heading":"OUR PRODUCTS",
+    "description":"Reliability on high quality standards from farm to final destination, enables us to guarantee quality rice, consistent supply."
+   }
+  ]
+}

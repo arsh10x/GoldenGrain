@@ -1,0 +1,61 @@
+{
+    "socialLinks": [
+      { "platform": "Facebook", "url": "https://www.facebook.com/" },
+      { "platform": "Twitter", "url": "https://twitter.com/" },
+      { "platform": "Google Plus", "url": "https://plus.google.com/" }
+    ],
+    "footerContent":[
+        {
+            "image":"img/core-img/logo.png",
+            "description":"  Experience the taste and texture of fine rice with each order from Rice distributer, where you can taste the difference."
+        }
+    ],
+    "navLinks": [
+        { "href": "/", "label": "Home" },
+        { "href": "/about", "label": "About Us" },
+        { "href": "/product", "label": "Products" },
+        { "href": "/career", "label": "Careers" },
+        { "href": "/contact", "label": "Contact" }
+      ],
+      "contactInfo" : [
+        {
+          "label": "Address",
+          "details": "Islampet, Srisailam Road Atmakur, Nandyal Dist, Andhra Pradesh - 518422"
+        },
+        {
+          "label": "Phone",
+          "details": "+91-7702120557, +91-6305591757"
+        },
+        {
+          "label": "Email",
+          "details": "kalimulla400624@gmail.com"
+        },
+        {
+          "label": "Open hours",
+          "details": "Mon - Sun: 9 AM to 9 PM"
+        }
+      ],
+      "bestSellerProducts": [
+        {
+          "imageUrl": "img/bg-img/sella.jpg",
+          "productName": "Rice Premium",
+          "description": "COOK EASY RICE 10 KG (Nandyal Sona)"
+        },
+        {
+          "imageUrl": "img/bg-img/steam.jpg",
+          "productName": "Rice Premium",
+          "description": "COOK EASY RICE 20 KG (Nandyal Sona)"
+        },
+        {
+          "imageUrl": "img/bg-img/sella25.jpg",
+          "productName": "Rice Premium",
+          "description": "COOK EASY RICE 25 Kg (Nandyal Sona)"
+        },
+        {
+          "imageUrl": "img/bg-img/steam25.jpg",
+          "productName": "Rice Premium",
+          "description": "COOK EASY RICE 50 Kg (Nandyal Sona)"
+        }
+      ]
+  }
+  

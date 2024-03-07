@@ -1,0 +1,30 @@
+{
+  "headerContent": [
+    {
+      "icon": "fa fa-envelope-o",
+      "title": "Email",
+      "href": "mailto:mail@trickuweb.com?Subject=Hello%20",
+      "tooltip": "mail@trickuweb.com",
+      "text": "kalimulla400624@gmail.com"
+    },
+    {
+      "icon": "fa fa-phone",
+      "title": "Call Us",
+      "href": "tel:+91-8789529215",
+      "tooltip": "+91 70910-967-77/ 78 /79 /80",
+      "text": "+91-7702120557, +91-6305591757"
+    }
+  ],
+  "certificates": [
+    { "id": "fssai", "label": "FSSAI License Number - 10417030000029" },
+    { "id": "iso", "label": "ISO 9001:2015 - 181023602" },
+    { "id": "apeda", "label": "Member of APEDA" }
+  ],
+  "navLinks" : [
+  { "to": "/", "label": "Home" },
+  { "to": "/about", "label": "About" },
+  { "to": "/product", "label": "Our Product" },
+  { "to": "/career", "label": "Career" },
+  { "to": "/contact", "label": "Contact" }
+]
+}
